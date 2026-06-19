@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://lwhansen.github.io/yukon-xl/</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://lwhansen.github.io/yukon-xl/assets/photos/PXL_20260429_222101013.jpg</image:loc>
+      <image:title>2002 GMC Yukon XL 2500 SLE 8.1L 4×4 for sale</image:title>
+    </image:image>
+  </url>
+</urlset>
